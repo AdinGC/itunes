@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-image: url(https://assets.awwwards.com/awards/images/2015/04/pattern.jpg);
+
+}
+span{
+    font-size: 35px;
+    font-family:fantasy;
+}
+
+#display{
+    font-size: 35px ;
+}
